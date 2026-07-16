@@ -1,153 +1,168 @@
 <div align="center">
 
-# AYA BACHA
+# Aya Bacha
 
-Computer Science Student • ESI Algiers
+### Computer Science Student @ ESI Algiers
 
-Building software, exploring machine learning, and solving real-world problems through code.
-
-<br>
-
-<p>
-<a href="https://github.com/AYA-BACHA">
-<img src="https://komarev.com/ghpvc/?username=AYA-BACHA&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-</a>
-</p>
+*Building reliable software today while exploring the future of Machine Learning.*
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA-BACHA&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=4C8DFF&center=true&vCenter=true&width=650&lines=Software+Engineering;Machine+Learning;Backend+Development;Always+building.+Always+learning." />
 
 </div>
 
 ---
 
-# whoami
-
-```bash
-> whoami
-
-Aya Bacha
-
-Computer Science Student
-ESI Algiers
-
-Interested in:
-- Machine Learning
-- Data Science
-- Software Engineering
-- Full-Stack Development
-```
-
----
-
-# current_status
+## About Me
 
 ```text
-Learning
-│
-├── React
-├── Machine Learning
-├── Backend Development
-└── Software Architecture
+> whoami
 
-Building
-│
-├── SmartFarm
-├── Machine Learning Projects
-└── Personal Portfolio
+Name        : Aya Bacha
+Education   : Computer Science @ ESI Algiers
+Location    : Algeria
+
+Current Focus
+-------------
+• Software Engineering
+• Machine Learning
+• Backend Development
+• Data Science
+
+Goal
+----
+Build software that is useful, scalable, and enjoyable to use.
 ```
 
 ---
 
-# tech_stack
+## Tech Stack
 
 <table>
-
 <tr>
 
-<td valign="top">
+<td valign="top" width="33%">
 
 ### Languages
 
-- Java
-- Python
-- JavaScript
-- C
+* Java
+* Python
+* JavaScript
+* C
+* SQL
 
 </td>
 
-<td valign="top">
+<td valign="top" width="33%">
 
 ### Frameworks
 
-- React
-- JavaFX
+* React
+* JavaFX
+
+### Databases
+
+* PostgreSQL
 
 </td>
 
-<td valign="top">
-
-### Data
-
-- NumPy
-- Pandas
-- scikit-learn
-
-</td>
-
-<td valign="top">
+<td valign="top" width="33%">
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Linux
+* Git
+* GitHub
+* VS Code
+* Linux
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# featured_projects
+## Currently Working On
+
+```text
+SmartFarm
+│
+├── Farm Management
+├── Sensor Monitoring
+├── Alert System
+├── Production Tracking
+└── JavaFX Desktop Interface
+```
+
+---
+
+## Learning Roadmap
+
+```text
+2026
+
+████████████░░░░░░  React
+
+███████████░░░░░░░  Backend Development
+
+██████████░░░░░░░░  Machine Learning
+
+█████████░░░░░░░░░  Data Engineering
+
+███████░░░░░░░░░░░  Cloud Computing
+```
+
+---
+
+## Featured Projects
 
 ### SmartFarm
 
-A Java desktop application designed for managing agricultural operations.
+A Java desktop application that simulates the management of a modern farm.
 
-Features include:
+Highlights
 
-- Crop Management
-- Livestock Management
-- Aquaculture
-- Sensor Monitoring
-- Production Tracking
-- Alert System
+* Crop Management
+* Livestock Management
+* Aquaculture
+* Sensor Monitoring
+* Alert System
+* Production Analytics
 
 ---
 
 ### What's Next
 
-- Data Science portfolio
-- Machine Learning applications
-- Modern React projects
-- Open Source contributions
+* Machine Learning Portfolio
+* Data Analysis Projects
+* Backend APIs
+* Open Source Contributions
+* Full Stack Applications
+
+---
+
+## Principles
+
+```text
+Write readable code.
+
+Learn continuously.
+
+Build real projects.
+
+Prefer understanding over memorization.
+
+Quality over quantity.
+```
 
 ---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AYA-BACHA&theme=tokyonight&hide_border=true"/>
+### Connect with me
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AYA-BACHA&theme=tokyonight"/>
+<a href="https://github.com/AYA-BACHA">GitHub</a>
 
 </div>
 
@@ -155,28 +170,6 @@ Features include:
 
 <div align="center">
 
-### Selected Repositories
-
-Pin these repositories on your profile.
-
-• SmartFarm
-
-• Data Science Project
-
-• Machine Learning Project
-
-• React Project
-
-• Portfolio Website
-
-• Algorithms & Data Structures
-
-</div>
-
----
-
-<div align="center">
-
-> "Always building. Always learning."
+*"Every project is another step toward becoming the engineer I want to be."*
 
 </div>
