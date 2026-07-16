@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;From+algorithms+to+real+applications.;Learning+through+projects+and+curiosity."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;Turning+ideas+into+real+projects.;Always+learning+and+improving."/>
 
 <br><br>
 
@@ -29,70 +29,48 @@
 ## About Me
 
 
-<div align="center">
-
 <table>
-
 <tr>
 
-<td width="50%" align="center">
+<td width="55%">
 
-<img src="https://img.icons8.com/fluency/96/laptop-coding.png"/>
+<h3>Hi, I'm Aya</h3>
 
-<br>
+Computer Science student at **ESI Algiers** passionate about creating software, understanding systems, and exploring intelligent technologies.
 
-### Who I Am
-
-Computer Science student at  
-**ESI Algiers**
-
-Passionate about building software, understanding systems, and turning ideas into working applications.
-
-</td>
-
-
-<td width="50%" align="center">
-
-<img src="https://img.icons8.com/fluency/96/brain.png"/>
+I enjoy building projects from ideas to working applications, whether it involves algorithms, desktop applications, web development, or data-driven solutions.
 
 <br>
 
-### What I Explore
+My interests:
 
-Software Engineering  
-Machine Learning  
-Data Science  
-Backend Development  
-System Design
-
-</td>
-
-</tr>
-
-</table>
+- Software Engineering
+- Machine Learning & Data Science
+- Backend Development
+- System Design
+- Algorithms & Problem Solving
 
 <br>
-
-<table>
-
-<tr>
-
-<td align="center">
 
 Currently exploring:
 
-`React` • `Node.js` • `PostgreSQL` • `Machine Learning` • `Software Architecture`
+`Machine Learning`  
+`React & Web Development`  
+`Backend Technologies`  
+`Software Architecture`
+
+</td>
+
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Current%20Focus&align=center&titleAlign=center&fontFamily=JetBrains%20Mono&lineCount=5&theme=github_dark"/>
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
-
-
-<br>
 
 
 ## Tech Stack
@@ -103,15 +81,19 @@ Currently exploring:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,assembly"/>
 
 
 <br><br>
 
 
-### Web & Development
+### Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=javafx"/>
 
 
 <br><br>
@@ -125,96 +107,102 @@ Currently exploring:
 <br><br>
 
 
-### Systems & Tools
+### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,assembly"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
 
 </div>
 
 
-<br>
-
 
 ## Featured Projects
-
-
-<div align="center">
 
 
 <table>
 
 <tr>
 
+<td width="50%">
 
-<td width="50%" align="center">
+<h3 align="center">Cirta</h3>
 
-<h3>Cirta</h3>
+<p align="center">
+A web development project focused on creating a structured and interactive digital experience using modern web technologies.
+</p>
 
-A web project focused on creating a structured and interactive digital experience.
-
-<br>
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 
+</div>
+
 </td>
 
 
-<td width="50%" align="center">
 
-<h3>SmartFarm</h3>
+<td width="50%">
 
-A JavaFX desktop application for farm management with zones, sensors, monitoring and alert systems.
+<h3 align="center">SmartFarm</h3>
 
-<br>
+<p align="center">
+A JavaFX desktop application designed for smart farm management with zones, sensors, production tracking, and alert management.
+</p>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
+</div>
+
 </td>
 
-
 </tr>
+
 
 
 <tr>
 
 
-<td width="50%" align="center">
+<td width="50%">
 
-<h3>Machine Learning Projects</h3>
+<h3 align="center">Machine Learning Projects</h3>
 
-Working with data analysis, preprocessing, visualization and predictive models using Python.
+<p align="center">
+Exploring data analysis, predictive models, feature engineering, and machine learning workflows with Python.
+</p>
 
-<br>
+<div align="center">
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,sklearn"/>
+
+</div>
 
 </td>
 
 
-<td width="50%" align="center">
 
-<h3>Algorithms & Systems</h3>
+<td width="50%">
 
-Academic projects exploring algorithms, data structures, C programming and low-level concepts.
+<h3 align="center">Algorithms & Systems</h3>
 
-<br>
+<p align="center">
+Academic projects focused on algorithms, data structures, low-level programming, and computer architecture.
+</p>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,assembly"/>
+
+</div>
 
 </td>
 
 
 </tr>
 
-
 </table>
 
-
-</div>
-
-
-<br>
 
 
 ## Certifications & Learning
@@ -232,7 +220,7 @@ Academic projects exploring algorithms, data structures, C programming and low-l
 <img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
 
-<br><br>
+<br>
 
 
 <img src="https://img.shields.io/badge/Coursera-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
@@ -241,49 +229,27 @@ Academic projects exploring algorithms, data structures, C programming and low-l
 </div>
 
 
-<br>
 
-
-## Currently Building
+## GitHub Stats
 
 
 <div align="center">
 
 
-<table>
+<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"/>
 
-<tr>
 
-<td align="center">
+<br><br>
 
-Exploring better ways to combine:
 
-<br>
-
-**Software Engineering**
-
-+
-
-**Data & Machine Learning**
-
-+
-
-**Real-world Applications**
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA-BACHA&layout=compact&hide_border=true&theme=tokyonight"/>
 
 
 </div>
 
 
-<br>
 
-
-## Connect With Me
+## Let's Connect
 
 
 <div align="center">
@@ -311,6 +277,6 @@ Exploring better ways to combine:
 
 <div align="center">
 
-**Building. Learning. Improving.**
+**Building • Learning • Improving**
 
 </div>
