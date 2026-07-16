@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student.;Building+projects+with+code+and+curiosity.;Exploring+Machine+Learning+%26+Data.;Turning+ideas+into+working+solutions."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;From+algorithms+to+real+applications.;Learning+one+project+at+a+time."/>
 
 <br><br>
 
@@ -27,18 +27,21 @@
 
 <div align="center">
 
-### Hi, I'm Aya.
+### Hi, I'm Aya Bacha
 
-Computer Science student at **ESI Algiers** passionate about creating software, exploring intelligent systems, and transforming ideas into practical applications.
+I'm a Computer Science student at **ESI Algiers** interested in building reliable software and exploring intelligent systems.
 
-<br>
+I enjoy transforming ideas into functional projects, understanding how systems work behind the scenes, and continuously improving through hands-on development.
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,postgres,git,linux"/>
+My main interests:
+
+**Software Engineering** • **Machine Learning** • **Data Science** • **Backend Development**
+
+Currently exploring:
+
+`Machine Learning` • `React` • `Backend Development` • `Software Architecture`
 
 </div>
-
-
-<br>
 
 
 ## Tech Stack
@@ -46,19 +49,27 @@ Computer Science student at **ESI Algiers** passionate about creating software, 
 
 <div align="center">
 
+### Languages
+
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mysql"/>
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+### Data & Machine Learning
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 
 <br><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,tensorflow"/>
+### Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=assembly,git,github,vscode,linux"/>
 
 </div>
 
@@ -74,7 +85,7 @@ Computer Science student at **ESI Algiers** passionate about creating software, 
 <h3 align="center">Cirta</h3>
 
 <p align="center">
-A web project focused on building a modern digital experience with clean structure and interactive features.
+A web project focused on creating a modern digital experience with structured development and interactive features.
 </p>
 
 <p align="center">
@@ -91,7 +102,7 @@ A web project focused on building a modern digital experience with clean structu
 <h3 align="center">SmartFarm</h3>
 
 <p align="center">
-A JavaFX desktop application for intelligent farm management including zones, sensors, production tracking and alerts.
+A JavaFX desktop application for farm management with crop, livestock, aquaculture, sensor monitoring and alert systems.
 </p>
 
 <p align="center">
@@ -129,12 +140,12 @@ Exploring data analysis, predictive models and machine learning workflows using 
 <h3 align="center">Algorithms & Systems</h3>
 
 <p align="center">
-Implementing data structures, algorithms and low-level concepts through university projects.
+Implementing algorithms, data structures and low-level concepts through academic projects.
 </p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp"/>
+<img src="https://skillicons.dev/icons?i=c,assembly"/>
 
 </p>
 
@@ -170,14 +181,14 @@ Implementing data structures, algorithms and low-level concepts through universi
 
 <img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYA-BACHA&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 
-## Let's Connect
+## Connect With Me
 
 
 <div align="center">
