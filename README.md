@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;Turning+ideas+into+working+projects.;Always+learning+something+new."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;From+algorithms+to+real+applications.;Learning+through+projects+and+curiosity."/>
 
 <br><br>
 
@@ -23,47 +23,76 @@
 </div>
 
 
+<br>
+
+
 ## About Me
 
 
+<div align="center">
+
 <table>
+
 <tr>
 
-<td width="55%">
+<td width="50%" align="center">
 
-### Hi, I'm Aya
+<img src="https://img.icons8.com/fluency/96/laptop-coding.png"/>
 
-Computer Science student at **ESI Algiers** passionate about software development, machine learning, and building practical solutions.
+<br>
 
-I enjoy understanding how things work behind the scenes, from algorithms and low-level systems to modern applications and intelligent systems.
+### Who I Am
+
+Computer Science student at  
+**ESI Algiers**
+
+Passionate about building software, understanding systems, and turning ideas into working applications.
 
 </td>
 
-<td width="45%">
 
-```yaml
-role: Computer Science Student
+<td width="50%" align="center">
 
-school: ESI Algiers
+<img src="https://img.icons8.com/fluency/96/brain.png"/>
 
-focus:
-  - Software Engineering
-  - Machine Learning
-  - Data Science
-  - Backend Development
+<br>
 
-currently:
-  - React
-  - PostgreSQL
-  - ML workflows
-  - System Design
-```
+### What I Explore
+
+Software Engineering  
+Machine Learning  
+Data Science  
+Backend Development  
+System Design
 
 </td>
 
 </tr>
+
 </table>
 
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+Currently exploring:
+
+`React` • `Node.js` • `PostgreSQL` • `Machine Learning` • `Software Architecture`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+<br>
 
 
 ## Tech Stack
@@ -71,57 +100,71 @@ currently:
 
 <div align="center">
 
-### Programming Languages
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css"/>
 
+
 <br><br>
 
-### Development
+
+### Web & Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
 
+
 <br><br>
+
 
 ### Data & Machine Learning
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 
+
 <br><br>
 
-### Tools & Systems
+
+### Systems & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,assembly"/>
+
 
 </div>
 
 
+<br>
 
-## Featured Work
+
+## Featured Projects
+
+
+<div align="center">
 
 
 <table>
 
 <tr>
 
+
 <td width="50%" align="center">
 
-### Cirta
+<h3>Cirta</h3>
 
 A web project focused on creating a structured and interactive digital experience.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
 
 </td>
 
 
 <td width="50%" align="center">
 
-### SmartFarm
+<h3>SmartFarm</h3>
 
-JavaFX desktop application for managing agricultural operations with zones, sensors, monitoring and alerts.
+A JavaFX desktop application for farm management with zones, sensors, monitoring and alert systems.
 
 <br>
 
@@ -129,16 +172,18 @@ JavaFX desktop application for managing agricultural operations with zones, sens
 
 </td>
 
+
 </tr>
 
 
 <tr>
 
+
 <td width="50%" align="center">
 
-### Machine Learning Projects
+<h3>Machine Learning Projects</h3>
 
-Exploring data analysis, preprocessing, visualization and predictive models using Python.
+Working with data analysis, preprocessing, visualization and predictive models using Python.
 
 <br>
 
@@ -149,9 +194,9 @@ Exploring data analysis, preprocessing, visualization and predictive models usin
 
 <td width="50%" align="center">
 
-### Algorithms & Systems
+<h3>Algorithms & Systems</h3>
 
-Academic projects involving algorithms, data structures, C programming and assembly concepts.
+Academic projects exploring algorithms, data structures, C programming and low-level concepts.
 
 <br>
 
@@ -159,16 +204,24 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 </td>
 
+
 </tr>
+
 
 </table>
 
 
+</div>
 
-## Certifications & Courses
+
+<br>
+
+
+## Certifications & Learning
 
 
 <div align="center">
+
 
 <img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
@@ -178,27 +231,56 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 <img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
-<br>
+
+<br><br>
+
 
 <img src="https://img.shields.io/badge/Coursera-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+
 
 </div>
 
 
+<br>
 
-## GitHub Activity
+
+## Currently Building
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
-<br><br>
+<table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYA-BACHA&theme=tokyo-night&hide_border=true"/>
+<tr>
+
+<td align="center">
+
+Exploring better ways to combine:
+
+<br>
+
+**Software Engineering**
+
++
+
+**Data & Machine Learning**
+
++
+
+**Real-world Applications**
+
+</td>
+
+</tr>
+
+</table>
+
 
 </div>
 
+
+<br>
 
 
 ## Connect With Me
@@ -206,20 +288,28 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 <div align="center">
 
+
 <a href="mailto:oa_bacha@esi.dz">
+
 <img src="https://img.shields.io/badge/Email-oa__bacha%40esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
+
 <a href="https://www.linkedin.com/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Aya%20Bacha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
 
 </div>
 
 
-<div align="center">
-
 <br>
+
+
+<div align="center">
 
 **Building. Learning. Improving.**
 
