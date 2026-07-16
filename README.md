@@ -1,116 +1,204 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,18,20,24&text=Aya%20Bacha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20ESI%20Algiers&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,18,24,30&text=Aya%20Bacha&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%40%20ESI%20Algiers%20%7C%20Software%20%26%20Data&descAlignY=62"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;From+algorithms+to+real+applications.;Learning+one+project+at+a+time."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+software+with+purpose.;Exploring+Machine+Learning+and+Data.;Turning+ideas+into+real+projects."/>
 
 <br><br>
 
 <a href="mailto:oa_bacha@esi.dz">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AYA-BACHA">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 
-## About Me
+<br>
+
+
+## About
 
 
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%">
 
-### Hi, I'm Aya
+Computer Science student at **ESI Algiers** with a passion for building software, exploring data-driven solutions, and understanding systems from the foundations up.
 
-Computer Science student at **ESI Algiers** passionate about building software, exploring machine learning, and understanding technology from algorithms to intelligent systems.
-
-I enjoy turning ideas into functional projects, solving problems through code, and continuously improving through hands-on development.
-
-<br>
-
-Areas of interest:
+Currently interested in:
 
 - Software Engineering
 - Machine Learning
 - Data Science
 - Backend Development
-- System Design
+
+I enjoy learning by building, whether it is a desktop application, a web project, or experimenting with intelligent systems.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,js,react,nodejs,postgres" />
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
+
+## Stack
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,react,nodejs,postgres"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,assembly"/>
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
+
+</div>
+
+
+<br>
+
+
+## Projects
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Cirta
+
+A web project focused on creating a modern digital experience with a focus on clean development and interactive features.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript` `React`
 
 </td>
 
 
-<td width="45%">
+<td width="50%">
+
+### SmartFarm
+
+A JavaFX application for managing agricultural operations with crops, livestock, sensors, production tracking and alerts.
+
+**Built with**
+
+`Java` `JavaFX` `OOP`
+
+</td>
+
+</tr>
 
 
-education:
-  - Computer Science
-  - ESI Algiers
+<tr>
 
-focus:
-  - Software Engineering
-  - Machine Learning
-  - Data Science
-  - Backend Development
+<td width="50%">
 
-currently_exploring:
-  - React
-  - Machine Learning
-  - PostgreSQL
-  - Software Architecture
+### Machine Learning
 
-languages:
-  - C
-  - Java
-  - Python
-  - JavaScript
-  - Assembly
+Experiments with data analysis, preprocessing and predictive models using Python.
 
-  - </td> </tr> </table>
-Tech Stack
+**Built with**
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+</td>
+
+
+<td width="50%">
+
+### Algorithms & Systems
+
+Academic projects exploring algorithms, data structures and low-level programming.
+
+**Built with**
+
+`C` `Assembly`
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
+
+## Certifications
+
+
 <div align="center">
-Programming Languages
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css"/>
+
+<img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-Data%20Visualization-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Coursera-ML%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
+
+</div>
+
+
+<br>
+
+
+## GitHub
+
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA-BACHA&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYA-BACHA&theme=tokyo-night&hide_border=true"/>
 
-<br><br>
+</div>
 
-Data & Machine Learning
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 
-<br><br>
+<br>
 
-Tools & Systems
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,assembly"/> </div>
-Featured Work
-<table> <tr> <td width="50%" valign="top"> <h3 align="center">Cirta</h3> <p align="center"> A web project focused on creating a modern and interactive digital experience with clean development practices. </p> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/> </div> </td> <td width="50%" valign="top"> <h3 align="center">SmartFarm</h3> <p align="center"> A JavaFX desktop application for farm management, including crop management, livestock, aquaculture, sensors and alerts. </p> <div align="center"> <img src="https://skillicons.dev/icons?i=java"/> </div> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">Machine Learning Projects</h3> <p align="center"> Exploring data analysis, predictive models and machine learning workflows using Python. </p> <div align="center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,sklearn"/> </div> </td> <td width="50%" valign="top"> <h3 align="center">Algorithms & Systems</h3> <p align="center"> Implementing algorithms, data structures and low-level concepts through academic projects. </p> <div align="center"> <img src="https://skillicons.dev/icons?i=c,assembly"/> </div> </td> </tr> </table>
-Certifications & Learning
-<div align="center"> <img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Coursera-Machine_Learning_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/> </div>
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<br><br>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYA-BACHA&theme=tokyo-night&hide_border=true"/> </div>
-Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/AYA-BACHA/AYA-BACHA/output/github-contribution-grid-snake.svg"/> </div>
-Connect With Me
-<div align="center"> <a href="mailto:oa_bacha@esi.dz"> <img src="https://img.shields.io/badge/Email-oa__bacha%40esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Aya%20Bacha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center">
+### Let's build something interesting.
 
-"Building. Learning. Improving."
+<a href="mailto:oa_bacha@esi.dz">
+Email
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">
+LinkedIn
+</a>
 
 </div>
