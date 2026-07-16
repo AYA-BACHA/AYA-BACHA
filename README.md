@@ -1,65 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=Aya%20Bacha&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20ESI%20Algiers&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Aya%20Bacha&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20ESI%20Algiers&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+%26+Machine+Learning.;Building+projects+with+purpose.;Exploring+data%2C+systems%2C+and+modern+web.;Always+learning%2C+always+improving."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student.;Building+projects+with+code+and+curiosity.;Exploring+Machine+Learning+%26+Data.;Creating+solutions+one+commit+at+a+time."/>
 
 <br><br>
 
 <a href="mailto:oa_bacha@esi.dz">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-oa__bacha%40esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AYA-BACHA">
 <img src="https://img.shields.io/badge/GitHub-AYA--BACHA-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/ESI-Algiers-0A66C2?style=for-the-badge"/>
-
 </div>
 
 
 ## About Me
 
+<div align="center">
+
+Computer Science student at **ESI Algiers** passionate about building software, exploring data, and understanding how technology can solve real problems.
+
+</div>
+
+<br>
+
 ```yaml
-name: Aya Bacha
+developer:
+  name: Aya Bacha
+  school: ESI Algiers
 
-education:
-  - Computer Science Student
-  - ESI Algiers
-
-focus:
+interests:
   - Software Engineering
   - Machine Learning
   - Data Science
   - Backend Development
+  - System Design
 
-interests:
-  - Building useful applications
-  - Data-driven solutions
-  - Clean and scalable code
-
-mindset:
-  "Learn deeply. Build consistently. Improve continuously."
+currently_exploring:
+  - React ecosystem
+  - Machine Learning workflows
+  - Database design
+  - Scalable applications
 ```
 
 
-## Technologies
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,sql,react,nodejs,postgres,git,github,vscode,linux"/>
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
 
 <br><br>
 
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,mongodb"/>
+
+<br><br>
+
+### Data & Machine Learning
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
+
+<br><br>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
 
 </div>
 
 
-## Projects
+## Featured Work
+
+<div align="center">
 
 <table>
 
@@ -70,11 +95,11 @@ mindset:
 <h3 align="center">Cirta</h3>
 
 <p align="center">
-A web project focused on building a modern and interactive user experience.
+A modern web project focused on creating an interactive digital experience with clean design and responsive development.
 </p>
 
 <p align="center">
-HTML • CSS • JavaScript • Web Development
+<b>HTML • CSS • JavaScript</b>
 </p>
 
 </td>
@@ -85,11 +110,11 @@ HTML • CSS • JavaScript • Web Development
 <h3 align="center">SmartFarm</h3>
 
 <p align="center">
-A JavaFX application for managing agricultural operations using object-oriented design.
+A JavaFX desktop application for farm management, combining object-oriented programming, data handling, sensors, and monitoring systems.
 </p>
 
 <p align="center">
-Java • JavaFX • OOP • Data Management
+<b>Java • JavaFX • OOP</b>
 </p>
 
 </td>
@@ -104,11 +129,11 @@ Java • JavaFX • OOP • Data Management
 <h3 align="center">Machine Learning Projects</h3>
 
 <p align="center">
-Exploring predictive models, data preprocessing, and practical ML workflows.
+Projects exploring data preprocessing, visualization, predictive models, and practical ML workflows.
 </p>
 
 <p align="center">
-Python • NumPy • Pandas • Scikit-learn
+<b>Python • Pandas • NumPy • Scikit-learn</b>
 </p>
 
 </td>
@@ -119,11 +144,11 @@ Python • NumPy • Pandas • Scikit-learn
 <h3 align="center">Algorithms & Systems</h3>
 
 <p align="center">
-Academic projects focused on algorithms, data structures, and low-level concepts.
+Academic work focused on algorithms, data structures, programming concepts, and low-level computing.
 </p>
 
 <p align="center">
-C • Assembly • Data Structures
+<b>C • Assembly • Data Structures</b>
 </p>
 
 </td>
@@ -132,58 +157,67 @@ C • Assembly • Data Structures
 
 </table>
 
+</div>
 
-## Certifications & Learning
+
+## Certifications & Courses
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kaggle-ML%20%26%20Data%20Courses-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Coursera-Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-ML%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
 
 </div>
 
 <br>
 
-- Kaggle: Intro to Machine Learning  
-- Kaggle: Intermediate Machine Learning  
-- Kaggle: Pandas  
-- Kaggle: Data Visualization  
-- Coursera: Machine Learning Specialization (Andrew Ng)
+- Kaggle: Intro to Machine Learning
+- Kaggle: Intermediate Machine Learning
+- Kaggle: Pandas
+- Kaggle: Data Visualization
+- Coursera: Machine Learning Specialization — Andrew Ng
 
 
-## Currently Exploring
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,python"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA-BACHA&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
-- Improving full-stack development skills
-- Building stronger machine learning foundations
-- Learning better software architecture practices
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYA-BACHA&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
-## Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="mailto:oa_bacha@esi.dz">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something%20Together-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AYA-BACHA&style=flat-square&color=blue"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/Find%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 
-<div align="center">
-
 <br>
 
-*"Turning curiosity into code."*
+<div align="center">
+
+✨ Building. Learning. Improving. ✨
 
 </div>
