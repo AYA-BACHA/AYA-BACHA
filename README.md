@@ -1,175 +1,114 @@
 <div align="center">
 
-# Aya Bacha
-
-### Computer Science Student @ ESI Algiers
-
-*Building reliable software today while exploring the future of Machine Learning.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Aya%20Bacha&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%40%20ESI%20Algiers&descAlignY=62"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=4C8DFF&center=true&vCenter=true&width=650&lines=Software+Engineering;Machine+Learning;Backend+Development;Always+building.+Always+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems.;Exploring+Machine+Learning+and+Data+Science.;Turning+ideas+into+projects.;Always+learning+something+new."/>
+
+<br><br>
+
+<a href="https://github.com/AYA-BACHA">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/ESI-Algiers-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Learning-6f42c1?style=for-the-badge"/>
 
 </div>
 
----
-
 ## About Me
 
-```text
-> whoami
+<img align="right" width="380" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Focus&align=center&titleAlign=center&fontFamily=JetBrains%20Mono&lineCount=4&theme=github_dark"/>
 
-Name        : Aya Bacha
-Education   : Computer Science @ ESI Algiers
-Location    : Algeria
+```yaml
+name: Aya Bacha
 
-Current Focus
--------------
-• Software Engineering
-• Machine Learning
-• Backend Development
-• Data Science
+education:
+  - Computer Science
+  - ESI Algiers
 
-Goal
-----
-Build software that is useful, scalable, and enjoyable to use.
+interests:
+  - Software Engineering
+  - Machine Learning
+  - Data Science
+  - Backend Development
+
+currently_learning:
+  - React
+  - Advanced Machine Learning
+  - PostgreSQL
+  - System Design
+
+philosophy:
+  "Build.
+   Learn.
+   Improve.
+   Repeat."
 ```
 
----
+<br clear="right"/>
 
 ## Tech Stack
 
-<table>
-<tr>
-
-<td valign="top" width="33%">
+<div align="center">
 
 ### Languages
 
-* Java
-* Python
-* JavaScript
-* C
-* SQL
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,sql"/>
 
-</td>
+### Frameworks & Libraries
 
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
-### Frameworks
+<br>
 
-* React
-* JavaFX
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
 
-### Databases
+### Database
 
-* PostgreSQL
-
-</td>
-
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
-* Linux
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</div>
+
+## Learning Journey
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Kaggle
+
+✔ Intro to Machine Learning
+
+✔ Intermediate Machine Learning
+
+✔ Pandas
+
+✔ Data Visualization
+
+</td>
+
+<td width="50%">
+
+### Coursera
+
+✔ Machine Learning Specialization
+
+Andrew Ng
+
+In Progress
 
 </td>
 
 </tr>
+
 </table>
 
----
-
-## Currently Working On
-
-```text
-SmartFarm
-│
-├── Farm Management
-├── Sensor Monitoring
-├── Alert System
-├── Production Tracking
-└── JavaFX Desktop Interface
-```
-
----
-
-## Learning Roadmap
-
-```text
-2026
-
-████████████░░░░░░  React
-
-███████████░░░░░░░  Backend Development
-
-██████████░░░░░░░░  Machine Learning
-
-█████████░░░░░░░░░  Data Engineering
-
-███████░░░░░░░░░░░  Cloud Computing
-```
-
----
-
-## Featured Projects
-
-### SmartFarm
-
-A Java desktop application that simulates the management of a modern farm.
-
-Highlights
-
-* Crop Management
-* Livestock Management
-* Aquaculture
-* Sensor Monitoring
-* Alert System
-* Production Analytics
-
----
-
-### What's Next
-
-* Machine Learning Portfolio
-* Data Analysis Projects
-* Backend APIs
-* Open Source Contributions
-* Full Stack Applications
-
----
-
-## Principles
-
-```text
-Write readable code.
-
-Learn continuously.
-
-Build real projects.
-
-Prefer understanding over memorization.
-
-Quality over quantity.
-```
-
----
-
-<div align="center">
-
-### Connect with me
-
-<a href="https://github.com/AYA-BACHA">GitHub</a>
-
-</div>
-
----
-
-<div align="center">
-
-*"Every project is another step toward becoming the engineer I want to be."*
-
-</div>
