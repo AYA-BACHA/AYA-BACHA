@@ -4,248 +4,125 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems.;Exploring+Machine+Learning+and+Data+Science.;Turning+ideas+into+projects.;Always+learning+something+new."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+software+that+solves+real+problems.;Exploring+Machine+Learning+and+Data+Science.;Creating+projects+with+clean+and+efficient+code.;Always+learning+something+new."/>
 
 <br><br>
 
-<a href="https://github.com/AYA-BACHA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/bacha-aya-667381343/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:oa_bacha@esi.dz">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/ESI%20Algiers-Computer%20Science-2563EB?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ESI-Algiers-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exploring-AI%20%26%20Data-EC4899?style=for-the-badge"/>
 
 </div>
 
+
 <br>
+
 
 ## About Me
 
-<img align="right" width="380" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Focus&align=center&titleAlign=center&fontFamily=JetBrains%20Mono&lineCount=4&theme=github_dark"/>
-
-I'm a Computer Science student at ESI Algiers with a growing focus on software engineering, machine learning, and data science. I like taking projects from idea to working system — whether that's a desktop app, a backend service, or a predictive model — and I learn best by building.
-
-```yaml
 name: Aya Bacha
-
-education:
-  - Computer Science, ESI Algiers
+education: Computer Science @ ESI Algiers
 
 interests:
   - Software Engineering
   - Machine Learning
   - Data Science
-  - Backend Development
+  - Web Development
+  - Database Systems
 
-currently_learning:
-  - React
-  - Advanced Machine Learning
-  - PostgreSQL
-  - System Design
+mindset:
+  "Build. Learn. Improve."
 
-philosophy:
-  "Build. Learn. Improve. Repeat."
-```
-
-<br clear="right"/>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,sql"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs"/>
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/>
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux"/>
-
-</div>
+I enjoy transforming ideas into working applications, exploring new technologies,
+and strengthening my understanding of software systems.
 
 <br>
+Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql"/>
 
-## Learning Journey
+<br><br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,github,vscode,linux"/>
 
-**Kaggle**
+<br><br>
 
-- ✅ Intro to Machine Learning
-- ✅ Intermediate Machine Learning
-- ✅ Pandas
-- ✅ Data Visualization
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn"/> </div> <br>
+Projects
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🚜 SmartFarm</h3> <div align="center">
 
-</td>
-<td width="50%" valign="top">
+Java • JavaFX • OOP
 
-**Coursera**
+</div> <br>
 
-- 🔄 Machine Learning Specialization (Andrew Ng) — *in progress*
+A desktop application for managing farm operations.
 
-</td>
-</tr>
-</table>
+Features:
 
-<br>
+Crop management
+Livestock management
+Sensors
+Production tracking
+Alert system
+</td> <td width="50%"> <h3 align="center">🌐 Cirta</h3> <div align="center">
 
-## Featured Projects
+React • JavaScript • HTML • CSS • PostgreSQL
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</div> <br>
 
-<h3 align="center">🌾 SmartFarm</h3>
+A web application project focused on creating a modern user experience while connecting frontend development with backend and database concepts.
 
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-6f42c1?style=flat-square"/>
-</div>
-<br>
+</td> </tr> <tr> <td width="50%"> <h3 align="center">🤖 Machine Learning Projects</h3> <div align="center">
 
-A JavaFX desktop application for managing a modern farm ecosystem.
+Python • NumPy • Pandas • Scikit-Learn
 
-- Crop and livestock management
-- Aquaculture management
-- Sensor monitoring
-- Production tracking
-- Alert system
+</div> <br>
 
-</td>
-<td width="50%" valign="top">
+Working on practical ML workflows:
 
-<h3 align="center">📊 Machine Learning Projects</h3>
+Data preprocessing
+Visualization
+Model training
+Evaluation
+</td> <td width="50%"> <h3 align="center">💻 Algorithms & Software</h3> <div align="center">
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</div>
-<br>
+C • Java • Data Structures
 
-Practical machine learning workflows from raw data to trained models.
+</div> <br>
 
-- Data preprocessing
-- Feature engineering
-- Model evaluation
-- Predictive modeling
+Building strong foundations in:
 
-</td>
-</tr>
+Algorithms
+Problem solving
+Object-oriented programming
+Software design
+</td> </tr> </table> </div> <br>
+Certifications
+<div align="center"> <table> <tr> <td width="50%" align="center">
+Kaggle
 
-<tr>
-<td width="50%" valign="top">
+Python
 
-<h3 align="center">🌐 Web Development</h3>
+Pandas
 
-<div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</div>
-<br>
+Data Visualization
 
-Building modern web applications, front to back.
+Intro to Machine Learning
 
-- Frontend development
-- Backend fundamentals
-- Database integration
-- Full-stack architecture
+Intermediate Machine Learning
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" align="center">
+Coursera
 
-<h3 align="center">🧩 Algorithms & Problem Solving</h3>
+Machine Learning Specialization
 
-<div align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</div>
-<br>
+Andrew Ng
 
-Strengthening core CS foundations.
+Machine Learning foundations and practical applications
 
-- Data structures
-- Algorithms
-- Complexity analysis
-- Object-oriented programming
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## What I'm Building Towards
-
-<div align="center">
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-EC4899?style=for-the-badge"/>
-</div>
-
-<br>
-
-I enjoy working on projects where programming meets real-world problems. My current goals:
-
-- Building stronger software engineering skills
-- Creating complete, maintainable applications
-- Applying machine learning beyond theory
-- Understanding scalable system design
-
-<br>
-
-## GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&rank_icon=github&title_color=58A6FF&icon_color=8B5CF6&text_color=ffffff&bg_color=0D1117"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYA-BACHA&layout=compact&hide_border=true&title_color=58A6FF&text_color=ffffff&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/AYA-BACHA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=8B5CF6&center=true&vCenter=true&width=600&lines=Build+with+curiosity.;Learn+with+purpose.;Create+with+impact."/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</td> </tr> </table> </div> <br>
+Currently Exploring
+<div align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-EC4899?style=for-the-badge"/> </div> <br>
+Connect With Me
+<div align="center"> <a href="mailto:oa_bacha@esi.dz"> <img src="https://img.shields.io/badge/Email-oa__bacha%40esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/AYA-BACHA"> <img src="https://img.shields.io/badge/GitHub-AYA--BACHA-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=8B5CF6&center=true&vCenter=true&width=600&lines=Build+with+curiosity.;Learn+with+purpose.;Create+with+impact."/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
