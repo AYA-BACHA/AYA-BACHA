@@ -1,4 +1,4 @@
-# Hi there, I'm Aya 👋
+# Hi there, I'm AYA
 
 ```text
 Computer Science Student @ ESI Algiers
@@ -9,15 +9,15 @@ Machine Learning • Data Science • Software Engineering
 
 ## About Me
 
-🎓 Computer Science student at ESI Algiers
+* Computer Science student at ESI Algiers
 
-🌱 Currently learning
+* Currently learning
 - Machine Learning
 - React
 - Data Science
 - JavaFX
 
-💡 Interested in
+* Interested in
 - AI & ML
 - Software Engineering
 - Backend Development
@@ -38,14 +38,6 @@ Machine Learning • Data Science • Software Engineering
 
 Git • GitHub • VS Code • React • JavaFX • Scikit-Learn • Pandas • NumPy
 
----
-
-## Featured Projects
-
-🌱 SmartFarm
-> JavaFX application for managing crops, livestock, aquaculture, sensors and production.
-
-📊 More projects coming soon...
 
 ---
 
