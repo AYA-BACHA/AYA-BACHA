@@ -9,7 +9,7 @@ Machine Learning • Data Science • Software Engineering
 
 ## About Me
 
-* Computer Science student at ESI Algiers
+** Computer Science student at ESI Algiers **
 
 * Currently learning
 - Machine Learning
