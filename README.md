@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;From+algorithms+to+real+applications.;Learning+one+project+at+a+time."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student+at+ESI+Algiers.;Building+software+and+exploring+data.;Turning+ideas+into+working+projects.;Always+learning+something+new."/>
 
 <br><br>
 
@@ -25,23 +25,45 @@
 
 ## About Me
 
-<div align="center">
 
-### Hi, I'm Aya Bacha
+<table>
+<tr>
 
-I'm a Computer Science student at **ESI Algiers** interested in building reliable software and exploring intelligent systems.
+<td width="55%">
 
-I enjoy transforming ideas into functional projects, understanding how systems work behind the scenes, and continuously improving through hands-on development.
+### Hi, I'm Aya
 
-My main interests:
+Computer Science student at **ESI Algiers** passionate about software development, machine learning, and building practical solutions.
 
-**Software Engineering** • **Machine Learning** • **Data Science** • **Backend Development**
+I enjoy understanding how things work behind the scenes, from algorithms and low-level systems to modern applications and intelligent systems.
 
-Currently exploring:
+</td>
 
-`Machine Learning` • `React` • `Backend Development` • `Software Architecture`
+<td width="45%">
 
-</div>
+```yaml
+role: Computer Science Student
+
+school: ESI Algiers
+
+focus:
+  - Software Engineering
+  - Machine Learning
+  - Data Science
+  - Backend Development
+
+currently:
+  - React
+  - PostgreSQL
+  - ML workflows
+  - System Design
+```
+
+</td>
+
+</tr>
+</table>
+
 
 
 ## Tech Stack
@@ -49,13 +71,13 @@ Currently exploring:
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css"/>
 
 <br><br>
 
-### Frameworks & Development
+### Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,postgres"/>
 
@@ -67,49 +89,43 @@ Currently exploring:
 
 <br><br>
 
-### Systems & Tools
+### Tools & Systems
 
-<img src="https://skillicons.dev/icons?i=assembly,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,assembly"/>
 
 </div>
+
 
 
 ## Featured Work
 
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">Cirta</h3>
+### Cirta
 
-<p align="center">
-A web project focused on creating a modern digital experience with structured development and interactive features.
-</p>
+A web project focused on creating a structured and interactive digital experience.
 
-<p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-</p>
 
 </td>
 
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">SmartFarm</h3>
+### SmartFarm
 
-<p align="center">
-A JavaFX desktop application for farm management with crop, livestock, aquaculture, sensor monitoring and alert systems.
-</p>
+JavaFX desktop application for managing agricultural operations with zones, sensors, monitoring and alerts.
 
-<p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=java"/>
-
-</p>
 
 </td>
 
@@ -118,36 +134,28 @@ A JavaFX desktop application for farm management with crop, livestock, aquacultu
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">Machine Learning Projects</h3>
+### Machine Learning Projects
 
-<p align="center">
-Exploring data analysis, predictive models and machine learning workflows using Python.
-</p>
+Exploring data analysis, preprocessing, visualization and predictive models using Python.
 
-<p align="center">
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,sklearn"/>
-
-</p>
 
 </td>
 
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">Algorithms & Systems</h3>
+### Algorithms & Systems
 
-<p align="center">
-Implementing algorithms, data structures and low-level concepts through academic projects.
-</p>
+Academic projects involving algorithms, data structures, C programming and assembly concepts.
 
-<p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=c,assembly"/>
-
-</p>
 
 </td>
 
@@ -156,14 +164,17 @@ Implementing algorithms, data structures and low-level concepts through academic
 </table>
 
 
-## Certifications & Learning
+
+## Certifications & Courses
 
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kaggle-Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Intro_to_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
@@ -174,18 +185,20 @@ Implementing algorithms, data structures and low-level concepts through academic
 </div>
 
 
+
 ## GitHub Activity
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYA-BACHA&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYA-BACHA&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
 
 
 ## Connect With Me
@@ -208,6 +221,6 @@ Implementing algorithms, data structures and low-level concepts through academic
 
 <br>
 
-*"Building. Learning. Improving."*
+**Building. Learning. Improving.**
 
 </div>
