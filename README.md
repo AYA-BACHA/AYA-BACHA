@@ -22,28 +22,91 @@
 
 </div>
 
+<br>
 
-## About Me
+<div align="center">
 
+```
+AYA-BACHA ~ $ ./whoami.sh
+```
+
+</div>
 
 <table>
 <tr>
+<td width="42%" valign="top">
 
-<td width="55%">
+```
 
-### Hi, I'm Aya
+         =======================================================
+         =======================================================
+         =======================================================
+         =======================================================
+         =======================================================
+         ====================================================...
+         ======================================================:
+         =================================================:=::.
+         ===================================================:::
+         =================================================::.
+         =================================================::..
+         =================================================::..
+         ================================================::.
+         ================================================::=:
+         ===============================================:==:.
+         ====================================================
+         ========================================================
+         ===================================================::.
+         ====================================================:=.
+         ====================================================:===
+         =====================================================.=.
+         ====================================================:::.
+         =====================================================::=:
+         ========================================================
+         ========================================================
+         =========================================================
+         ==============================================================
+         ==================================================================
+         ==================================================================
+         =====================================================================
+         =====================================================================:::
+         ======================================================================..:
+         =====================================================================::
+         ======================================================================.
+         =======================================================================:
+         =====================================================================::==:
+         ==================================================================:===:.
+         =====================================================:==:===:.
+         =============================================:::::=::::::::::.
+         =============================================:::::::::::::::::::::
+         =============================================:::::::::::::::::::::
+         ================::=========::::::::::::::::::::::::::::::::::::::
+         ===:=:=:=::::::::::=========:::::::::::::::::::::::::::::::::.:.::=
+         :::::=:::::::::::::=========.:::::::::::::::::::::::::::::::::.:.::
+         :::::::::::::::::::=========:::::::::::::::::::::::.:.:.......:==::
+         ::::::::::::::::::::========:::::::::::::::.................:====:
+         ::::::::::::::::::::========:...:..:...................===============
+         ::::::::::::::::::::========:...................=====  ===:::::=====
+         .............:.....=========........................====== ..==::::=
+         .....................=========......................==:::==:.. ==:===
+         .....................=========......................==:::==:.. ==:===
+         .....................:========...................  .=======::========
+         .....................========...................=====.==:========. ..
+         .....................========................. =:=:=============:. ..
+          .    .. . ........  ========. ..   .. .. . ..====:=. =====::::::====
+                    .    .  ..========..     ..      ::====:=  .=======:::====
+                              ========:             .= ..=:::  ==:::===::.====
+                              ========:             =:  ==:.=  ======:::. .:=:
+                              :=======:            ==  ===:.=. :======:
+                              :=======:           === ====:.: :.::..::.
+                              .========          :==== ===:::::=====.:
 
-Computer Science student at **ESI Algiers** passionate about software development, machine learning, and building practical solutions.
-
-I enjoy understanding how things work behind the scenes, from algorithms and low-level systems to modern applications and intelligent systems.
+```
 
 </td>
-
-<td width="45%">
+<td width="58%" valign="top">
 
 ```yaml
 role: Computer Science Student
-
 school: ESI Algiers
 
 focus:
@@ -57,17 +120,47 @@ currently:
   - PostgreSQL
   - ML workflows
   - System Design
+
+status: "Building. Learning. Improving."
 ```
+
+<br>
+
+```
+AYA-BACHA ~ $ ./contributions.sh
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AYA-BACHA/AYA-BACHA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AYA-BACHA/AYA-BACHA/output/github-contribution-grid-snake.svg" />
+  <img alt="Aya's animated contribution graph" src="https://raw.githubusercontent.com/AYA-BACHA/AYA-BACHA/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</td>
+</tr>
+</table>
+
+---
+
+## About Me
+
+<table>
+<tr>
+
+<td width="100%">
+
+### Hi, I'm Aya
+
+Computer Science student at **ESI Algiers** passionate about software development, machine learning, and building practical solutions.
+
+I enjoy understanding how things work behind the scenes, from algorithms and low-level systems to modern applications and intelligent systems.
 
 </td>
 
 </tr>
 </table>
 
-
-
 ## Tech Stack
-
 
 <div align="center">
 
@@ -95,10 +188,7 @@ currently:
 
 </div>
 
-
-
 ## Featured Work
-
 
 <table>
 
@@ -116,7 +206,6 @@ A web project focused on creating a structured and interactive digital experienc
 
 </td>
 
-
 <td width="50%" align="center">
 
 ### SmartFarm
@@ -131,7 +220,6 @@ JavaFX desktop application for managing agricultural operations with zones, sens
 
 </tr>
 
-
 <tr>
 
 <td width="50%" align="center">
@@ -145,7 +233,6 @@ Exploring data analysis, preprocessing, visualization and predictive models usin
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,sklearn"/>
 
 </td>
-
 
 <td width="50%" align="center">
 
@@ -163,10 +250,7 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 </table>
 
-
-
 ## Certifications & Courses
-
 
 <div align="center">
 
@@ -184,10 +268,7 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 </div>
 
-
-
 ## GitHub Activity
-
 
 <div align="center">
 
@@ -199,10 +280,7 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 </div>
 
-
-
 ## Connect With Me
-
 
 <div align="center">
 
@@ -215,7 +293,6 @@ Academic projects involving algorithms, data structures, C programming and assem
 </a>
 
 </div>
-
 
 <div align="center">
 
