@@ -191,11 +191,11 @@ Academic projects involving algorithms, data structures, C programming and assem
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AYA-BACHA&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aya-bacha&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYA-BACHA&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aya-bacha&hide_border=true&theme=tokyonight"/>
 
 </div>
 
